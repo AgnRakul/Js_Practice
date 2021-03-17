@@ -1,7 +1,5 @@
 function speedtest(speed) {
 
-    // const speedtest = 10;
-
     if (speed <= 10) {
         console.log("Slow");
     } else if (speed > 10 && speed <= 40) {
@@ -14,4 +12,4 @@ function speedtest(speed) {
         console.log("Extermely Fast");
     }
 }
-speedtest(181);
+speedtest();  // Pass any Values to Check This Output 
