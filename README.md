@@ -10,3 +10,5 @@ You need to write a function that receives an argument. This argument is going t
     If our speed is over 40 and is up to 100 - return fast
     If our speed is over 100 and up to 180 - return very fast
     If our speed is over 180 - return extremely fast
+
+# For More Task You Can Follow this Website -------> <a href="https://dev.to/">Dev.to</a>
