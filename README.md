@@ -17,7 +17,7 @@ You need to write a function that receives an argument. This argument is going t
    
  # Task #2 - Bonus Score
 
-    You will be given one number - your score. This score will get some bonus points if some conditions are met. You have to write a function which counts all the bonus points         which this score gets and return the new score (your score + bonus points)
+    You will be given one number - your score. This score will get some bonus points if some conditions are met. You have to write a function which counts all the bonus points   which this score gets and return the new score (your score + bonus points)
 
         If the score is under 100 or equal, the bonus points are 10.
         If the score is over 100, the bonus points are 30% from the score.
