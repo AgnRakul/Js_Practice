@@ -34,6 +34,6 @@ You need to write a function that receives an argument. This argument is going t
 
     In this task, you have to write a function, which receives an array as an argument with two string numbers in it. The first number is the hours, and the second is the minutes. Our time will be in the 24-hour time clock. Our function will calculate what the time will be in 25 minutes.
 
-You have to make the strings into numbers. Your output for the hours should always be between 0-23 and your minutes should always be between 0-59. Your minutes should always be with two digits. This means that in some cases it should start with a 0.
+    You have to make the strings into numbers. Your output for the hours should always be between 0-23 and your minutes should always be between 0-59. Your minutes should always be with two digits. This means that in some cases it should start with a 0.
 
 
